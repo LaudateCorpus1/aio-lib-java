@@ -83,7 +83,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <license.header.path>${maven.multiModuleProjectDirectory}/copyright_header.txt</license.header.path>
 
-    <commons-text.version>1.6</commons-text.version>
+    <commons-text.version>1.10.0</commons-text.version>
     <junit.version>4.11</junit.version>
     <okhttp3.mockwebserver.version>4.9.1</okhttp3.mockwebserver.version>
     <mockito.version>3.11.1</mockito.version>
